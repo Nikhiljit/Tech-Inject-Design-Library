@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user-admin",
+    "email": "admin@techinject.internal",
+    "name": "Platform Administrator",
+    "role": "admin",
+    "isPremium": true,
+    "apiKey": "tech_adm_sec_9942a7",
+    "createdAt": "2026-09-27T09:25:40.625Z"
+  },
+  {
+    "id": "user-free",
+    "email": "free@customer.com",
+    "name": "Jordan (Free Tier)",
+    "role": "customer",
+    "isPremium": false,
+    "apiKey": "tech_cli_free_0884b2",
+    "createdAt": "2026-09-27T09:25:40.625Z"
+  },
+  {
+    "id": "user-premium",
+    "email": "premium@customer.com",
+    "name": "Taylor (Enterprise License)",
+    "role": "customer",
+    "isPremium": true,
+    "apiKey": "tech_cli_prem_1884c9",
+    "createdAt": "2026-09-27T09:25:40.625Z"
+  }
+]

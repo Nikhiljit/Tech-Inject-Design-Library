@@ -1,0 +1,6 @@
+{
+  "name": "Tech Inject Design Library",
+  "description": "Enterprise-grade Sales CRM component library featuring a public component catalogue with live previews, dynamic code/CLI/agent integration, and an admin publishing dashboard with role-based premium access controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
